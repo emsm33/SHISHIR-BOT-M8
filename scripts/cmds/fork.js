@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const REPO_OWNER = "goatbotnx";
+const REPO_OWNER = "negative-xalman";
 const REPO_NAME = "GOAT-BOT-UPDATED";
 const REPO_LINK = `https://github.com/${REPO_OWNER}/${REPO_NAME}`;
 const REPO_API = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}`;
