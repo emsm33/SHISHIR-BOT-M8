@@ -4,17 +4,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2800&pause=600&color=9D4EDD&center=true&vCenter=true&width=850&lines=🔥+GOAT-BOT-UPDATED;⚡+Next-Generation+Messenger+Bot;💎+Premium+Automation+System;🚀+Fast+%7C+Stable+%7C+Powerful;🛡️+Built+For+Performance" alt="Typing Animation"><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=goatbotnx&label=PROFILE+VIEWS&color=7000FF&style=for-the-badge&abbreviated=true" alt="Profile Views"><br><br>
+<img src="https://komarev.com/ghpvc/?username=negative-xalman&label=PROFILE+VIEWS&color=7000FF&style=for-the-badge&abbreviated=true" alt="Profile Views"><br><br>
 
-<a href="https://github.com/goatbotnx/GOAT-BOT-UPDATED">
-<img src="https://img.shields.io/github/stars/goatbotnx/GOAT-BOT-UPDATED?style=for-the-badge&logo=github&label=STARS&color=7000FF" alt="Stars">
-</a><a href="https://github.com/goatbotnx/GOAT-BOT-UPDATED/network/members">
-<img src="https://img.shields.io/github/forks/goatbotnx/GOAT-BOT-UPDATED?style=for-the-badge&logo=github&label=FORKS&color=00D9FF" alt="Forks">
-</a><a href="https://github.com/goatbotnx/GOAT-BOT-UPDATED">
-<img src="https://img.shields.io/github/watchers/goatbotnx/GOAT-BOT-UPDATED?style=for-the-badge&logo=github&label=WATCHERS&color=9D4EDD" alt="Watchers">
-</a><a href="https://github.com/goatbotnx/GOAT-BOT-UPDATED">
-<img src="https://img.shields.io/github/last-commit/goatbotnx/GOAT-BOT-UPDATED?style=for-the-badge&logo=github&label=LAST%20UPDATE&color=FFD700" alt="Last Commit">
-</a><a href="https://github.com/goatbotnx/GOAT-BOT-UPDATED/blob/main/LICENSE">
+<a href="https://github.com/negative-xalman/GOAT-BOT-UPDATED">
+<img src="https://img.shields.io/github/stars/negative-xalman/GOAT-BOT-UPDATED?style=for-the-badge&logo=github&label=STARS&color=7000FF" alt="Stars">
+</a><a href="https://github.com/negative-xalman/GOAT-BOT-UPDATED/network/members">
+<img src="https://img.shields.io/github/forks/negative-xalman/GOAT-BOT-UPDATED?style=for-the-badge&logo=github&label=FORKS&color=00D9FF" alt="Forks">
+</a><a href="https://github.com/negative-xalman/GOAT-BOT-UPDATED">
+<img src="https://img.shields.io/github/watchers/negative-xalman/GOAT-BOT-UPDATED?style=for-the-badge&logo=github&label=WATCHERS&color=9D4EDD" alt="Watchers">
+</a><a href="https://github.com/negative-xalman/GOAT-BOT-UPDATED">
+<img src="https://img.shields.io/github/last-commit/negative-xalman/GOAT-BOT-UPDATED?style=for-the-badge&logo=github&label=LAST%20UPDATE&color=FFD700" alt="Last Commit">
+</a><a href="https://github.com/negative-xalman/GOAT-BOT-UPDATED/blob/main/LICENSE">
 <img src="https://img.shields.io/badge/LICENSE-MIT-FFD700?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License">
 </a></div>---
 
@@ -158,7 +158,7 @@ onChat
 
 📥 Installation
 
-git clone https://github.com/goatbotnx/GOAT-BOT-UPDATED.git
+git clone https://github.com/negative-xalman/GOAT-BOT-UPDATED.git
 cd GOAT-BOT-UPDATED
 npm install
 
@@ -193,13 +193,13 @@ node index.js
 
 📊 GitHub Statistics
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=goatbotnx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&icon_color=00D9FF&text_color=FFFFFF" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goatbotnx&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&text_color=FFFFFF" width="49%"><br><br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=negative-xalman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&icon_color=00D9FF&text_color=FFFFFF" width="49%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=negative-xalman&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&text_color=FFFFFF" width="49%"><br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goatbotnx&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=FFD700&currStreakLabel=00D9FF" width="70%"></div>---
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=negative-xalman&theme=tokyonight&hide_border=true&background=00000000&ring=7000FF&fire=FFD700&currStreakLabel=00D9FF" width="70%"></div>---
 
 👀 Visitor Counter
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=goatbotnx&label=GOAT-BOT+VISITORS&color=7000FF&style=for-the-badge&abbreviated=true" alt="GOAT-BOT Visitors"></div>---
+<div align="center"><img src="https://komarev.com/ghpvc/?username=negative-xalman&label=GOAT-BOT+VISITORS&color=7000FF&style=for-the-badge&abbreviated=true" alt="GOAT-BOT Visitors"></div>---
 
 🌟 Project Goals
 
@@ -254,6 +254,6 @@ Developer • Builder • Creator
 
 <br><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=7000FF&center=true&vCenter=true&width=650&lines=BUILDING+THE+FUTURE;CODE+%7C+AI+%7C+AUTOMATION;GOAT-BOT-UPDATED" alt="NX"><br><br>
 
-<a href="https://github.com/goatbotnx/GOAT-BOT-UPDATED">
+<a href="https://github.com/negative-xalman/GOAT-BOT-UPDATED">
 <img src="https://img.shields.io/badge/GOAT--BOT--UPDATED-7000FF?style=for-the-badge&logo=github&logoColor=white" alt="GOAT-BOT-UPDATED">
 </a></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7000FF,100:0D001A&height=140&section=footer" width="100%"></div>
