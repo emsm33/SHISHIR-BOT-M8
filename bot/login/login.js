@@ -350,11 +350,11 @@ const titles = [
     "╚═╝  ╚═══╝╚═╝  ╚═╝     ╚═════╝  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   "
   ],
   [
-    "NX-GOAT-BOT-@" +
+    "GOAT-BOT-UPDATED-@" +
       currentVersion
   ],
   [
-    "NX-GOAT-BOT"
+    "GOAT-BOT-UPDATED"
   ]
 ];
 
@@ -397,9 +397,9 @@ for (const line of title) {
 }
 
 const sub = [
-  `NX-GOAT-BOT-@${currentVersion} - A simple Bot chat messenger use personal account`,
+  `GOAT-BOT-UPDATED-@${currentVersion} - A simple Bot chat messenger use personal account`,
   "Created by NTKhang with ♡ | Fixed by XALMAN",
-  "GITHUB: https://github.com/negative-xalman/NX-GOAT-BOT-V3",
+  "GITHUB: https://github.com/negative-xalman/GOAT-BOT-UPDATED",
   "ALL VERSIONS NOT RELEASED HERE ARE FAKE"
 ];
 
