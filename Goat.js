@@ -1,7 +1,7 @@
 /**
  * @author NTKhang (original), maintained by xalman
  * ! The source code is written by NTKhang, please don't change the author's name everywhere. Thank you for using
- * ! Official source code: https://github.com/goatbotnx/GOAT-BOT-UPDATED
+ * ! Official source code: https://github.com/negative-xalman/GOAT-BOT-UPDATED
  * ! If you do not download the source code from the above address, you are using an unknown version and at risk of having your account hacked
  */
 
@@ -234,7 +234,7 @@ if (config.autoRestart) {
 	global.utils.transporter = transporter;
 
 	try {
-		const rawData = (await axios.get("https://raw.githubusercontent.com/goatbotnx/GOAT-BOT-UPDATED/main/package.json")).data;
+		const rawData = (await axios.get("https://raw.githubusercontent.com/negative-xalman/GOAT-BOT-UPDATED/main/package.json")).data;
 		const { version } = typeof rawData === "string" ? JSON.parse(rawData) : rawData;
 		const currentVersion = require("./package.json").version;
 		if (compareVersion(version, currentVersion) === 1)

@@ -123,7 +123,7 @@ fs.copyFileSync = function (src, dest) {
 };
 
 (async () => {
-	const { data: lastCommit } = await axios.get('https://api.github.com/repos/goatbotnx/GOAT-BOT-UPDATED/commits/main');
+	const { data: lastCommit } = await axios.get('https://api.github.com/repos/negative-xalman/GOAT-BOT-UPDATED/commits/main');
 	const lastCommitDate = new Date(lastCommit.commit.committer.date);
 	if (new Date().getTime() - lastCommitDate.getTime() < 5 * 60 * 1000) {
 		const minutes = Math.floor((5 * 60 * 1000 - (new Date().getTime() - lastCommitDate.getTime())) / 1000 / 60);
@@ -131,7 +131,7 @@ fs.copyFileSync = function (src, dest) {
 		return log.error("ERROR", getText("updater", "updateTooFast", minutes, seconds));
 	}
 
-	const rawVersions = (await axios.get('https://raw.githubusercontent.com/goatbotnx/GOAT-BOT-UPDATED/main/versions.json')).data;
+	const rawVersions = (await axios.get('https://raw.githubusercontent.com/negative-xalman/GOAT-BOT-UPDATED/main/versions.json')).data;
 	const versions = typeof rawVersions === "string" ? JSON.parse(rawVersions) : rawVersions;
 	const currentVersion = require('./package.json').version;
 	const indexCurrentVersion = versions.findIndex(v => v.version === currentVersion);
@@ -196,7 +196,7 @@ fs.copyFileSync = function (src, dest) {
 		const fullPath = `${process.cwd()}/${filePath}`;
 		let getFile;
 		try {
-			const response = await axios.get(`https://github.com/goatbotnx/GOAT-BOT-UPDATED/raw/main/${filePath}`, {
+			const response = await axios.get(`https://github.com/negative-xalman/GOAT-BOT-UPDATED/raw/main/${filePath}`, {
 				responseType: 'arraybuffer'
 			});
 			getFile = response.data;
@@ -273,7 +273,7 @@ fs.copyFileSync = function (src, dest) {
 		}
 	}
 
-	const rawPackageJSON = (await axios.get("https://raw.githubusercontent.com/goatbotnx/GOAT-BOT-UPDATED/main/package.json")).data;
+	const rawPackageJSON = (await axios.get("https://raw.githubusercontent.com/negative-xalman/GOAT-BOT-UPDATED/main/package.json")).data;
 	const packageJSON = typeof rawPackageJSON === "string" ? JSON.parse(rawPackageJSON) : rawPackageJSON;
 
 	fs.writeFileSync(`${process.cwd()}/package.json`, JSON.stringify(packageJSON, null, 2));
