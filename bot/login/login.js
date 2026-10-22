@@ -399,7 +399,7 @@ for (const line of title) {
 const sub = [
   `NX-GOAT-BOT-@${currentVersion} - A simple Bot chat messenger use personal account`,
   "Created by NTKhang with ♡ | Fixed by XALMAN",
-  "GITHUB: https://github.com/goatbotnx/NX-GOAT-BOT-V3",
+  "GITHUB: https://github.com/negative-xalman/NX-GOAT-BOT-V3",
   "ALL VERSIONS NOT RELEASED HERE ARE FAKE"
 ];
 
@@ -2003,7 +2003,7 @@ async function startBot(
   try {
     const res =
       await axios.get(
-        "https://raw.githubusercontent.com/goatbotnx/GOAT-BOT-UPDATED/main/tooOldVersions.txt",
+        "https://raw.githubusercontent.com/negative-xalman/GOAT-BOT-UPDATED/main/tooOldVersions.txt",
         {
           timeout: 15000
         }
